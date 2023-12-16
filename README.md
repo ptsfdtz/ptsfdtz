@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ptsfdtz
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Internet technology，Electronic information technology，Web development，Mechatronics。
+- 🌱 I’m currently learning web-development
+- 💞️ I’m looking to collaborate on nobody
+- 📫 How to reach me <a href="mailto:pitousanfadetuzi@gmail.com" title="PTSFDTZs">My Google Mail</a>
 
 <!---
 ptsfdtz/ptsfdtz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
