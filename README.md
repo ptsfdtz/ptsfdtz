@@ -1,4 +1,4 @@
-### Hi there is PTSFDTZ.👋
+### Hi 我是 披头散发的秃子.👋
 
 <div>
     <a href="pitousanfadetuzi@gmail.com" >
@@ -6,16 +6,15 @@
     </a>
 </div>
 
-- 🔭 I’m currently working on [useful-box](https://github.com/ptsfdtz/useful-toolbox)
-- 🌱 I’m currently learning Pyqt and pytorch
-- 👯 I’m looking to collaborate on [yhw2003](https://github.com/yhw2003)and[cael](https://github.com/MR-Addict)
-- 🤔 I’m looking for help with
-- 💬 Ask me about
-- 📫 How to reach me: <a href="mailto:pitousanfadetuzi@gmail.com">My-Email</a>
-- ⚡ Fun fact:
+- 🔭 Currently working on [useful-box](https://github.com/ptsfdtz/useful-toolbox)
+- 🌱 Learning PyQt and yolov5
+- 👯 Looking to collaborate on `OpenCV` projects
+- 🤔 Seeking help with [cael](https://github.com/MR-Addict)
+- 📫 Contact me at: <a href="mailto:pitousanfadetuzi@gmail.com">pitousanfadetuzi@gmail.com</a>
+
 <div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptsfdtz&count_private=true) &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptsfdtz&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptsfdtz&count_private=true)
+![public top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ptsfdtz&hide=jupyter%20notebook&layout=compact)
 
 </div>
