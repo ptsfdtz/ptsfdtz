@@ -3,8 +3,18 @@
 #### 👨‍💻 联系我
 
 <div>
-<!-- telegram   -->
-<a href="https://t.me/pitousanfadetuzi" target="_blank" rel="noreferrer">
+    <!-- google -->
+    <a href="mailto:pitousanfadetuzi@gmail.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="google" width="40" height="40"/>
+    </a>
+    <!-- github -->
+    <a href="https://github.com/ptsfdtz" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+    </a>
+    <!-- telegram -->
+    <a href="https://t.me/pitousanfadetuzi" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" width="40" height="40"/>
+    </a>
 </div>
 
 #### 🛠 技术栈
