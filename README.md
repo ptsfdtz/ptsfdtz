@@ -101,7 +101,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
   <!-- solidworks -->
   <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/solidworks/solidworks-icon.svg" alt="solidworks" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/main/icons/solidworks.svg" alt="solidworks" width="40" height="40"/>
 </div>
 
 ---
