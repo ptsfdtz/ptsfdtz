@@ -1,5 +1,10 @@
 ### Hi there! I'm 披头散发的秃子 👋
 
+#### 🌱 我是一名学生，目前在读大学，我热爱技术，热爱生活。
+
+#### 📷 我也是一个摄影爱好者，喜欢拍照，拍摄风景。
+没错，我就是那种拍照的秃头！
+
 #### 👨‍💻 联系我
 
 <div>
@@ -80,7 +85,6 @@
         <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
         <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
 </div>
 
 <div>
