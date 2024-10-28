@@ -2,10 +2,6 @@
 
 #### 🌱 我是一名学生，目前在读大学，我热爱技术，热爱生活。
 
-#### 📷 我也是一个摄影爱好者，喜欢拍照，拍摄风景。
-
-#### 👨‍💻 联系我
-
 <div>
     <!-- google -->
     <a href="mailto:pitousanfadetuzi@gmail.com" target="_blank" rel="noreferrer">
