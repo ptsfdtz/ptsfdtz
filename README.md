@@ -17,6 +17,8 @@
     </a>
 </div>
 
+---
+
 #### 🛠 技术栈
 
 <div>
@@ -80,6 +82,10 @@
         <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
         <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <!-- typescript -->
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    </a>
 </div>
 
 <div>
@@ -101,17 +107,20 @@
   <!-- solidworks -->
   <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/main/icons/solidworks.svg" alt="solidworks" width="40" height="40"/>
+  <!-- matlab -->
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
 </div>
 
 ---
 
-#### 📊 GitHub 统计
+#### 📊 GitHub count
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=ptsfdtz&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ptsfdtz&hide=jupyter%20notebook&layout=compact" width="400" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ptsfdtz&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
 </div>
 
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/output/github-contribution-grid-snake.svg">
