@@ -1,7 +1,3 @@
-Here's an optimized version with better tech stack organization and consistent English language:
-
----
-
 ### Hi there! I'm Haoran Tong 👋
 
 #### 🌱 Computer Science Enthusiast & Undergraduate Student | Passionate about Technology and Innovation
@@ -93,6 +89,10 @@ Here's an optimized version with better tech stack organization and consistent E
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     </a>
+    <!-- go -->
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+    </a>
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     </a>
@@ -163,16 +163,3 @@ Here's an optimized version with better tech stack organization and consistent E
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/output/github-contribution-grid-snake.svg">
 </picture>
-
-### 🤝 Let's Connect and Build Amazing Things Together!
-
----
-
-**Key improvements:**
-- Organized tech stack into logical categories (Frontend, Backend, Languages, Tools, Design, Hardware)
-- Consistent English throughout
-- Better spacing and visual hierarchy
-- Professional name usage
-- Improved section headers
-- Consistent capitalization and formatting
-- Clean, readable layout
