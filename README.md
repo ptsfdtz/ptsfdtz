@@ -155,7 +155,6 @@
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ptsfdtz&hide=jupyter%20notebook&layout=compact&theme=tokyonight" width="400" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ptsfdtz&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
 </div>
 
 <picture>
