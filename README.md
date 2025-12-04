@@ -33,9 +33,13 @@
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
         <img src="https://vuejs.org/images/logo.png" alt="Vue.js" width="40" height="40"/>
     </a>
-        <!-- vite -->
+    <!-- Vite -->
     <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
         <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
+    </a>
+    <!-- Pinia -->
+    <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" width="40" height="40"/>
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -50,7 +54,6 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
     </a>
-
 </div>
 
 **Frameworks & Platforms**
@@ -153,8 +156,9 @@
 
 #### 📊 GitHub Stats
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ptsfdtz&hide=jupyter%20notebook&layout=compact&theme=tokyonight" width="400" alt="Top Languages" />
+<div align="center">
+    <img src="https://github-readme-stats-delta-nine-76.vercel.app/api?username=ptsfdtz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-delta-nine-76.vercel.app/api/top-langs?username=ptsfdtz&hide=jupyter%20notebook,C,C%2B%2B,Python&layout=compact&theme=tokyonight&count_private=false" height="180" alt="Top Langs" />
 </div>
 
 <picture>
