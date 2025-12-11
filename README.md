@@ -21,17 +21,15 @@
 
 #### 🛠 I have used
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tauri,electron,tailwind,mysql,pinia,pnpm,vite,docker,ts,go,rust&theme=dark&perline=7" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tauri,electron,tailwind,mysql,pinia,pnpm,vite,docker,ts,go,rust&theme=dark" />
+</a>
 
 ---
 
 #### 📊 GitHub Stats
 
-<div align="center">
+<div>
     <img src="https://github-readme-stats-delta-nine-76.vercel.app/api?username=ptsfdtz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" height="180" alt="GitHub Stats" />
     <img src="https://github-readme-stats-delta-nine-76.vercel.app/api/top-langs?username=ptsfdtz&hide=jupyter%20notebook,C,C%2B%2B,Python&layout=compact&theme=tokyonight&count_private=false" height="180" alt="Top Langs" />
 </div>
