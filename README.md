@@ -2,21 +2,6 @@
 
 #### 🌱 Computer Science Enthusiast & Undergraduate Student | Passionate about Technology and Innovation
 
-<div>
-    <!-- Google -->
-    <a href="mailto:pitousanfadetuzi@gmail.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="45" height="45"/>
-    </a>
-    <!-- GitHub -->
-    <a href="https://github.com/ptsfdtz" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-    </a>
-    <!-- Telegram -->
-    <a href="https://t.me/pitousanfadetuzi" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="45" height="45"/>
-    </a>
-</div>
-
 ---
 #### 🛠 I have used
 
