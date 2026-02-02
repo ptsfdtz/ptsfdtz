@@ -57,12 +57,14 @@
 
 
 <p>
-  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/master/profile-summary-card-output/blueberry/3-stats.svg" alt="Stats" style="margin-right: 15px;" />
+  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/master/profile-summary-card-output/blueberry/3-stats.svg" alt="Stats" />
+  &nbsp;
   <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/master/profile-summary-card-output/blueberry/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/master/profile-summary-card-output/blueberry/2-most-commit-language.svg" alt="Most Commit Language" style="margin-right: 15px;" />
+  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/master/profile-summary-card-output/blueberry/2-most-commit-language.svg" alt="Most Commit Language"/>
+  &nbsp;
   <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/master/profile-summary-card-output/blueberry/1-repos-per-language.svg" alt="Repos Per Language" />
 </p>
 
