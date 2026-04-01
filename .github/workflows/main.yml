@@ -9,10 +9,10 @@ on:
   # allows to manually run the job at any time
   workflow_dispatch:
 
-  # run on every push on the master branch
+  # run on every push on the main branch
   push:
     branches:
-      - master
+      - main
 
 jobs:
   generate:
@@ -53,4 +53,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: summary-cards
+          AUTO_PUSH: false
+      - name: prepare summary-cards artifacts
+        run: |
+          mkdir -p dist/profile-summary-card-output
+          cp -r profile-summary-card-output/* dist/profile-summary-card-output/
+      - name: push profile-summary-card-output to the summary-cards branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: summary-cards
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
