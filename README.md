@@ -44,19 +44,19 @@
 
 
 <p>
-  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/summary-cards/profile-summary-card-output/blueberry/3-stats.svg" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/summary-cards/profile-summary-card-output/blueberry/3-stats.svg?v=20260401" alt="Stats" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/summary-cards/profile-summary-card-output/blueberry/4-productive-time.svg" alt="Productive Time" />
+  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/summary-cards/profile-summary-card-output/blueberry/4-productive-time.svg?v=20260401" alt="Productive Time" />
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/summary-cards/profile-summary-card-output/blueberry/2-most-commit-language.svg" alt="Most Commit Language"/>
+  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/summary-cards/profile-summary-card-output/blueberry/2-most-commit-language.svg?v=20260401" alt="Most Commit Language"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/summary-cards/profile-summary-card-output/blueberry/1-repos-per-language.svg" alt="Repos Per Language" />
+  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/summary-cards/profile-summary-card-output/blueberry/1-repos-per-language.svg?v=20260401" alt="Repos Per Language" />
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/summary-cards/profile-summary-card-output/blueberry/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/summary-cards/profile-summary-card-output/blueberry/0-profile-details.svg?v=20260401" alt="Profile Details" />
 </p>
 
 
