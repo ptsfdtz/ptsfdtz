@@ -16,6 +16,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" alt="Tauri" width="45" height="45"/>
     <!-- electron -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="45" height="45"/>
+    <!-- flutter -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45"/>
     <!-- tailwindcss -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="45" height="45"/>
     <!-- vite -->
@@ -42,19 +44,19 @@
 
 
 <p>
-  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/master/profile-summary-card-output/blueberry/3-stats.svg" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/summary-cards/profile-summary-card-output/blueberry/3-stats.svg" alt="Stats" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/master/profile-summary-card-output/blueberry/4-productive-time.svg" alt="Productive Time" />
+  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/summary-cards/profile-summary-card-output/blueberry/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/master/profile-summary-card-output/blueberry/2-most-commit-language.svg" alt="Most Commit Language"/>
+  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/summary-cards/profile-summary-card-output/blueberry/2-most-commit-language.svg" alt="Most Commit Language"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/master/profile-summary-card-output/blueberry/1-repos-per-language.svg" alt="Repos Per Language" />
+  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/summary-cards/profile-summary-card-output/blueberry/1-repos-per-language.svg" alt="Repos Per Language" />
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/master/profile-summary-card-output/blueberry/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/summary-cards/profile-summary-card-output/blueberry/0-profile-details.svg" alt="Profile Details" />
 </p>
 
 
