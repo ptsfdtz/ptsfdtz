@@ -83,9 +83,7 @@
   <img width="100%" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ptsfdtz/ptsfdtz/output/github-contribution-grid-snake.svg">
 </picture>
 
-### `INSERT CURIOSITY → WRITE CODE → SHIP MAGIC → REPEAT`
 
-[![GitHub](https://img.shields.io/badge/FOLLOW_THE_NEXT_EXPERIMENT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ptsfdtz)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,35:DEA584,68:F1E05A,100:00ADD8&height=130&section=footer&animation=twinkling" alt="Language territory footer" />
 
