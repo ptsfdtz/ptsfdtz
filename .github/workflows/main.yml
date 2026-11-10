@@ -1,4 +1,4 @@
-name: generate animation
+name: Update profile visuals
 
 on:
   create:
@@ -63,5 +63,31 @@ jobs:
         with:
           target_branch: summary-cards
           build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  profile-3d:
+    name: generate-3d-contributions
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    concurrency:
+      group: profile-3d-${{ github.repository }}
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+      - name: generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: verify generated gitblock image
+        run: test -s profile-3d-contrib/profile-gitblock.svg
+      - name: publish 3D contribution images
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: profile-3d
+          build_dir: profile-3d-contrib
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
